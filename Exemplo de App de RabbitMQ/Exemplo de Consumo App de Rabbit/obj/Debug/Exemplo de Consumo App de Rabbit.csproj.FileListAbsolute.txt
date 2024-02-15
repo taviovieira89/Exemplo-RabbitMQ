@@ -1,0 +1,23 @@
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\Exemplo de Consumo App de Rabbit.exe.config
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\Exemplo de Consumo App de Rabbit.exe
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\Exemplo de Consumo App de Rabbit.pdb
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\RabbitMQ.Client.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Buffers.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Memory.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Threading.Channels.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\RabbitMQ.Client.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Buffers.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Memory.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Threading.Channels.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\obj\Debug\Exemplo de Consumo App de Rabbit.csproj.AssemblyReference.cache
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\obj\Debug\Exemplo de Consumo App de Rabbit.csproj.SuggestedBindingRedirects.cache
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\obj\Debug\Exemplo de Consumo App de Rabbit.csproj.CoreCompileInputs.cache
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\obj\Debug\Exemplo de Consumo App de Rabbit.csproj.CopyComplete
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\obj\Debug\Exemplo de Consumo App de Rabbit.exe
+C:\Users\tavio\Desktop\Estagiario\Exemplo de App de RabbitMQ\Exemplo de Consumo App de Rabbit\obj\Debug\Exemplo de Consumo App de Rabbit.pdb
